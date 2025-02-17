@@ -14,7 +14,7 @@ public class Victory : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning("finalTimeText n'est pas assigné !");
+            Debug.LogWarning("finalTimeText n'est pas assigne !");
         }
     }
 
@@ -42,7 +42,7 @@ public class Victory : MonoBehaviour
         }
     }
 
-    
+
 }
 
 

@@ -19,7 +19,7 @@ public class GameTimer : MonoBehaviour
         }
         else
         {
-            Destroy(gameObject);
+            Destroy(gameObject); 
         }
     }
 
